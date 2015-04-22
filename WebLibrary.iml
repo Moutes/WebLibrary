@@ -28,6 +28,21 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="JAX-WS-Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" level="project" />
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/workspace/pv168.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/workspace/pv168.jar!/enu/samples/adaptive" />
+          <root url="jar://$USER_HOME$/workspace/pv168.jar!/enu/samples/connections" />
+          <root url="jar://$USER_HOME$/workspace/pv168.jar!/enu/samples/datatypes" />
+          <root url="jar://$USER_HOME$/workspace/pv168.jar!/enu/samples/resultsets" />
+          <root url="jar://$USER_HOME$/workspace/pv168.jar!/enu/samples/sparse" />
+        </SOURCES>
+      </library>
+    </orderEntry>
     <orderEntry type="library" scope="PROVIDED" name="Maven: javax:javaee-web-api:6.0" level="project" />
   </component>
 </module>
