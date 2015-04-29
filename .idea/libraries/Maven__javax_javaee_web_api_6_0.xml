@@ -2,6 +2,7 @@
   <library name="Maven: javax:javaee-web-api:6.0">
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/javax/javaee-web-api/6.0/javaee-web-api-6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/WebLibrary-1.0-SNAPSHOT/WEB-INF/lib/org.springframework.context-2.5.5.a.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/javax/javaee-web-api/6.0/javaee-web-api-6.0-javadoc.jar!/" />
